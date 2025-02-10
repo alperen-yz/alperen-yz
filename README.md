@@ -1,15 +1,15 @@
 <div align=center>
     <h2>A passionate developer</h2>
-    <img src="https://komarev.com/ghpvc/?username=hnypot&color=000000&label=Visitor+count">
+    <img src="https://komarev.com/ghpvc/?username=alperen0804&color=000000&label=Visitor+count">
 </div>
 <br>
 <div align=center>
-    <img src="https://streak-stats.demolab.com?user=hnypot&theme=dark&mode=weekly">
+    <img src="https://streak-stats.demolab.com?user=alperen0804&theme=dark&mode=weekly">
 </div>
 <hr>
 <div align=center>
     <h3>Skills</h3>
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,astro,tailwind,php,java,rust&perline=8">
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,astro,tailwind,php,java,python&perline=8">
 </div>
 <hr>
 <div align=center>
