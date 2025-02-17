@@ -1,5 +1,5 @@
 <div align=center>
-    <h2>A passionate developer</h2>
+    <h2>A passionate developer👨‍💻</h2>
     <!-- <img src="https://komarev.com/ghpvc/?username=alperen0804&color=000000&label=Visitor+count"> -->
 </div>
 <br>
