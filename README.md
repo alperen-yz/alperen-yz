@@ -4,7 +4,7 @@
 </div>
 <br>
 <div align=center>
-    <img src="https://streak-stats.demolab.com/?user=alperen0804&mode=weekly">
+    <img src="https://streak-stats.demolab.com?user=alperen0804&mode=weekly">
 </div>
 <hr>
 <div align=center>
