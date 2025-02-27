@@ -7,9 +7,9 @@
 
 - 💬 Ask me about **Java, C# or PHP - I'd like to help out!**
 
-- 📫 How to reach me **alperen.developer@icloud.com**
+- 📫 You can contact me via email: **alperen.developer@icloud.com**
 
-- ⚡ Fun fact **I enjoy playing football and working out**
+- ⚡ Fun fact: **I enjoy playing football and working out**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
