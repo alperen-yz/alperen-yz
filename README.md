@@ -5,7 +5,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alperen0804" alt="alperen0804" /></a> </p>
 <hr>
 
-- 🌱 I’m currently learning <a href="https://docs.spring.io/spring-boot">**Spring Boot**</a>, Rust & C++
+- 🌱 I’m currently learning <a href="https://docs.spring.io/spring-boot">**Spring Boot**</a> & C++
 
 - 💬 Ask me about **Java, C# or PHP - I'd like to help out!**
 
