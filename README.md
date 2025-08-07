@@ -20,7 +20,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alperen-yz&show_icons=true&locale=en&layout=compact" alt="alperen-yz" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alperen&show_icons=true&locale=en" alt="alperen-yz" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alperen-yz&show_icons=true&locale=en" alt="alperen-yz" /></p>
 
 <hr>
 <div align=center>
